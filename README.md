@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # angular10-learning
 A sample angular 10 project for learning new things
 
@@ -46,7 +44,6 @@ Dev Dependencies used:
 - "tslint": "~6.1.0",
 - "typescript": "~3.9.5"
 
->>>>>>> f12660f93c876b3dc9d54b3c0674014aa302a4fb
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
@@ -74,7 +71,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-<<<<<<< HEAD
-=======
 
->>>>>>> f12660f93c876b3dc9d54b3c0674014aa302a4fb
